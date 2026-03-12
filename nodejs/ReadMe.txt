@@ -1,0 +1,2 @@
+On Windows, the batch script needs to be run the first time to install fnm.
+After installation, fnm may not yet be available in the system PATH. Therefore, you should close the current PowerShell window and open a new one so the terminal can recognize the updated PATH.
